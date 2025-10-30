@@ -10,7 +10,7 @@ nomeDeFest = []
 
 for i in range (5):
     nome = input ("Digite seu nome : ")
-    nomeDeFest.append(nome) #.append() adicionar ao final da lista 
+    nomeDeFest.append(nome) #.append() adicionar a lista 
     
 nomeDeFest.sort() #.sort() ordenar os itens da lista em ordem
 
