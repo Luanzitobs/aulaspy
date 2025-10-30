@@ -1,4 +1,4 @@
-#ORDEM CRESCENTE
+#ORDEM CRESCENTE 
 
 lista = []
 
